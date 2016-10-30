@@ -1,2 +1,3 @@
-# jParser
-an interpreter that compiles parser-instructions into parsers, primarily these parser-instructions are written in regex.objectified
+#<code>jParser</code>
+##<code>Compiles parser-instructions into parsers</code>
+##<pre>Parser-instructions written with [regex.objectified](https://github.com/JavaScript-AI/regex.objectified)</pre>
