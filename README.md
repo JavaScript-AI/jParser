@@ -5,4 +5,4 @@
 
 > or
 
-> in the [regex.objectified](https://github.com/JavaScript-AI/regex.objectified) syntactical structure
+> in the [regex.objectified](https://github.com/JavaScript-AI/regex.objectified) object structure (in JSON)
